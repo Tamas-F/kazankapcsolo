@@ -17,7 +17,7 @@
 
 
 INIT_SZIV_WAIT_TIMER	=	2	;sec, kérés után csak ennyi idõ múlva kapcsoljuk be
-INIT_SZIV_TIMER		=	120	;sec
+INIT_SZIV_TIMER		=	240	;sec
 
 
 
